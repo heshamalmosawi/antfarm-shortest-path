@@ -23,5 +23,5 @@ go run main.go <file_name>
 - tbc
 
 ## Contributors
-- Sayed Hesham Husain
-- Ali Ebrahim
+- [Sayed Hesham Husain](https://github.com/heshamalmosawi)
+- [Ali Ebrahim](https://github.com/alikebrahim)
